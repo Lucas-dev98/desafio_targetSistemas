@@ -1,8 +1,8 @@
-import calcula_soma
-import fibonacci
-import calcula_faturamento
-import calcula_percentual
-import inverte_string
+import funcoes.calcula_soma as calcula_soma
+import funcoes.fibonacci as fibonacci
+import funcoes.calcula_faturamento as calcula_faturamento
+import funcoes.calcula_percentual as calcula_percentual
+import funcoes.inverte_string as inverte_string
 
 def mostrar_menu():
     print("Escolha uma opção:")
